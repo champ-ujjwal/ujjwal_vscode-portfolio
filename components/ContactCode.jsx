@@ -2,55 +2,36 @@ import styles from '../styles/ContactCode.module.css';
 
 const contactItems = [
   {
-    social: 'website',
-    link: 'nitinranganath.me',
-    href: 'https://nitinranganath.me',
-  },
-  {
     social: 'email',
-    link: 'nitinranganath@gmail.com',
-    href: 'mailto:nitinranganath@gmail.com',
+    link: 'b200062@nitsikkim.ac.in',
+    href: 'mailto:b200062@nitsikkim.ac.in',
   },
   {
     social: 'github',
-    link: 'itsnitinr',
-    href: 'https://github.com/itsnitinr',
+    link: 'champ-ujjwal',
+    href: 'https://github.com/champ-ujjwal',
   },
   {
     social: 'linkedin',
-    link: 'nitinranganath',
-    href: 'https://www.linkedin.com/in/nitinranganath/',
+    link: 'ujjwal-kumar',
+    href: 'https://www.linkedin.com/in/ujjwal-kumar-1198a0225',
   },
   {
     social: 'twitter',
-    link: 'iamnitinr',
-    href: 'https://www.twitter.com/iamnitinr',
+    link: 'Ujjwal_singh',
+    href: 'https://twitter.com/UJJWALSINGH2204',
+  },
+  {
+    social: 'codechef',
+    link: 'Ujjwal_kumar',
+    href: 'https://www.codechef.com/users/ujjwalkumar22',
   },
   {
     social: 'instagram',
-    link: 'iamnitinr',
-    href: 'https://www.instagram.com/iamnitinr',
+    link: 'ujjwal_singh',
+    href: 'https://www.instagram.com/2001ujjwalkumarsingh/',
   },
-  {
-    social: 'polywork',
-    link: 'nitinranganath',
-    href: 'https://www.polywork.com/nitinranganath',
-  },
-  {
-    social: 'telegram',
-    link: 'iamnitinr',
-    href: 'https://t.me/iamnitinr',
-  },
-  {
-    social: 'codepen',
-    link: 'nitinranganath',
-    href: 'https://codepen.io/itsnitinr',
-  },
-  {
-    social: 'codesandbox',
-    link: 'itsnitinr',
-    href: 'https://codesandbox.io/u/itsnitinr',
-  },
+ 
 ];
 
 const ContactCode = () => {
